@@ -5,9 +5,6 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  // GitHub Pages 部署配置
-  basePath: '/homepage',
-  assetPrefix: '/homepage/',
 };
 
 export default nextConfig;
