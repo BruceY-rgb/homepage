@@ -22,7 +22,7 @@ export default function HeroSection() {
           >
             <div className="w-40 h-40 rounded-full overflow-hidden border-2 border-cyan/30 glow-cyan">
               <img
-                src="/avatar.jpg"
+                src="/homepage/avatar.jpg"
                 alt="杨思行"
                 className="w-full h-full object-cover"
                 onError={(e) => {
